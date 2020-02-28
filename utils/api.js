@@ -2,8 +2,7 @@ const axios = require("axios");
 
 
 
-const api ={
-  getUser(username) {
+  function getUser(username) {
     return axios.get(`https://api.github.com/users/${username}`)
     // .then(function (response) {
     //   // handle success
@@ -15,7 +14,5 @@ const api ={
     })
     // console.log(username);
   }
-  
-};
 
-module.exports = api;
+module.exports = getUser;
