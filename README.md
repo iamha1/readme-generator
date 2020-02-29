@@ -4,8 +4,7 @@ As a developer, you want a README generator application, so that you can easily 
 
 # Demonstration: 
 
-https://github.com/iamha1/readme-generator
-giot
+![Farmers Market Finder Demo](img/readme-generator.gif)
 
 # Installation
 No installation needed.
@@ -19,6 +18,11 @@ The user will be prompted for their GitHub username, which will be used to make 
 * Node.js: https://nodejs.org/en/
 * Node Package Manager: https://www.npmjs.com/
 * Shield.io: https://shields.io/
+
+# Link to application:
+
+
+https://github.com/iamha1/readme-generator
 
 # Question:
 If you have any questions about the repo, please contact me at: https://github.com/iamha1/
