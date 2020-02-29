@@ -12,7 +12,7 @@ No installation needed.
 
 ## usage:
 
-This application was developed with Node.js and invoked with node index.js. The user will be prompted for their GitHub username, which will be used to make a call to the GitHub API to retrieve their email and profile image. They will then be prompted with questions about their project.
+(some content here)
 
 ## lisence: 
 N/A
@@ -24,8 +24,6 @@ N/A
 ## questions:
 
 ## link to readme-generator: 
-
-https://github.com/iamha1/weather-on-the-go
 
  
 

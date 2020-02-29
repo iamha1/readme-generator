@@ -2,8 +2,8 @@ const axios = require("axios");
 
 
 
-  function getUser(username) {
-    return axios.get(`https://api.github.com/users/${username}`)
+function getUser(username) {
+  return axios.get(`https://api.github.com/users/${username}`)
     // .then(function (response) {
     //   // handle success
     //   // console.log(response);
@@ -12,7 +12,6 @@ const axios = require("axios");
       // handle error
       console.log(error);
     })
-    // console.log(username);
-  }
-
+  // console.log(username);
+}
 module.exports = getUser;

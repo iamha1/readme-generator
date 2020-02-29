@@ -1,11 +1,12 @@
 
 
-# TITLE
+# README GENERATOR
 
-## Title
+## The Title here --> readme generator
+
 
 ## Descriptions 
-Testing purpose
+For Testing
 
 ## Table of Contents 
 * [Installation](#installation)
@@ -17,18 +18,22 @@ Testing purpose
 
 ## Installation
 
-No installation needed
+No installation
 
 ## Usage
-To apply what we learned in class
+to apply what we learned in class
+
+## Lisence
+
+NA
 
 ## Contributing
 
-Everyone
+everyone
 
 ## Tests
 
-Online
+on terminal
 
 ![Badge](https://img.shields.io/badge/version-1.0-blue)
 
@@ -37,4 +42,4 @@ Online
 https://avatars2.githubusercontent.com/u/57973621?v=4
 
 <img src="https://avatars2.githubusercontent.com/u/57973621?v=4" alt="avatar" style="border-radius: 16px" width="30" />
-If you have any questions about the repo, open an issue or contact (nguyenthingocha2@gmail.com) directly.
+If you have any questions about the repo, open an issue or contact (nguyenthingoha2@gmail.com) directly.

@@ -1,11 +1,10 @@
-function generateMarkdown(data, git) 
-
-{
-return `
+function generateMarkdown(data, git) {
+    return `
 
 # ${data.title.toUpperCase()}
 
-## ${data.title}
+## The Title here --> ${data.title}
+
 
 ## Descriptions 
 ${data.description}
@@ -24,6 +23,10 @@ ${data.installation}
 
 ## Usage
 ${data.usage}
+
+## Lisence
+
+${data.lisence}
 
 ## Contributing
 
