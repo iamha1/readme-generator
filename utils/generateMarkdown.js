@@ -42,7 +42,7 @@ ${data.test}
 
 ${git.data.avatar_url}
 
-<img src="${git.data.avatar_url}" alt="avatar" style="border-radius: 16px" width="30" />
+<img src="${git.data.avatar_url}" alt="avatar" />
 If you have any questions about the repo, open an issue or contact (${data.email}) directly.
 `;
 

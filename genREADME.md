@@ -1,12 +1,12 @@
 
 
-# README GENERATOR
+# README
 
-## The Title here --> readme generator
+## The Title here --> readme
 
 
 ## Descriptions 
-testing
+
 
 ## Table of Contents 
 * [Installation](#installation)
@@ -18,22 +18,22 @@ testing
 
 ## Installation
 
-no
+
 
 ## Usage
-applying what we learn
+
 
 ## Lisence
 
-NA
+
 
 ## Contributing
 
-everyone
+readmegit 
 
 ## Tests
 
-terminal
+
 
 ![Badge](https://img.shields.io/badge/version-1.0-blue)
 
@@ -41,5 +41,5 @@ terminal
 
 https://avatars2.githubusercontent.com/u/57973621?v=4
 
-<img src="https://avatars2.githubusercontent.com/u/57973621?v=4" alt="avatar" style="border-radius: 16px" width="30" />
-If you have any questions about the repo, open an issue or contact (nguyenthingocha2@gmail.com) directly.
+<img src="https://avatars2.githubusercontent.com/u/57973621?v=4" alt="avatar" />
+If you have any questions about the repo, open an issue or contact () directly.
